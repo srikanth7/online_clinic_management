@@ -151,13 +151,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`username`, `password`, `fname`, `sname`, `type`) VALUES
-('Admin', 'f7c3bc1d808e04732adf679965ccc34ca7ae3441', 'Admin', '', 'Admin'),
-('anu', 'fde74bb0c10fb90a6e8d90a8a889e81e3aed1152', 'Anusha', 'G', 'Laboratory'),
-('bursar', 'c2ae336b1775a9de8818e8d037a9c8528958e2a2', 'bursar', 'bursar', 'Bursar'),
-('sravani', 'f58675b479a379a23183544ac8a78fbc323da2e9', 'Sravani', 'B', 'Pharmacy'),
-('sri', '5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8', 'Srikanth', 'Gatla', 'Reception'),
-('srikanth', '9be1bc64c37db5184ffbf06c48619ae95cc100f4', 'Srikanth', 'Gatla', 'NormalDoctor'),
-('teja', 'baad627c7446453203af601b43ae0c5462888b1c', 'Teja', 'Kandakatla', 'WomenDoctor');
+('Admin', 'f7c3bc1d808e04732adf679965ccc34ca7ae3441', 'Admin', '', 'Admin');
 
 --
 -- Indexes for dumped tables
