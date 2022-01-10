@@ -4,7 +4,7 @@
 
 Clinic Management System
 
-The project clinic management is a web application developed to simplify the communication process between the doctor and the receptionist. The application would be operated by two admins one is doctor and the other is receptionist. Receptionist would be responsible for assigning token numbers to the patient visiting the clinic and save it in the database along with their details. These token numbers along with respective patient details are sent to doctor. The doctor can thus view patient details and after checking up the patient, the recommended medicines for the particular patient are fed into the database by the doctor and are sent to receptionist. The receptionist can then generate bill and feed into the database. The system also maintains patient’s history so that doctor or receptionist can view them anytime. The system can thus reduce complexity in maintaining patient’s records. The project is developed on web platform and is supported by a Sql database to store user specific details.
+Healthcare computer system, commonly known as clinic management system, is created to computerize manual operations in clinics. The primary purpose is to digitize patient records so as to make data retrieval easy and efficient. Clinic Management System web application is developed by using PHP & MySql and is designed to automate internal work flows and manage different aspect of a small to medium size medical clinics.
 
 Steps to run application ->
 
